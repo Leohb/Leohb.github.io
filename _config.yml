@@ -2,12 +2,15 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+
+
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: L.M
+subtitle: step to step
+description: L.M|Hexo|Python
+author: Leo Maple
+email: Lhb_6031@qq.com
+language: zh-CN
 timezone:
 
 # URL
@@ -71,4 +74,3 @@ deploy:
   type: git
   repo: git@github.com:Leohb/Leohb.github.io.git
   branch: master
-  message: ...
