@@ -1,38 +1,17 @@
 ---
 title: Hello World
+date: 2017-01-08 15:40:47
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+终于开始搭建自己的Blog啦~
 
-## Quick Start
+## 简介
 
-### Create a new post
+### 为了记录成长而建立
 
-``` bash
-$ hexo new "My New Post"
+``` markdown
+开智学堂「编程思维 Python 基础班」三期课程
+
 ```
+### 这两天先熟悉下，慢慢把笔记挪过来~
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+或者直接戳[我的gitbook](https://leohb.gitbook.io)
