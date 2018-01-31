@@ -1,3 +1,13 @@
+---
+title: Chap1
+date: 2017-01-13 15:40:47
+categories:
+- ha..?
+tags:
+- Python
+---
+
+
 # Chap1 任务：制作本地天气查询小公举
 
 ## 1.同步AIminder/Py103下的 weather_info.txt文件到本地仓库

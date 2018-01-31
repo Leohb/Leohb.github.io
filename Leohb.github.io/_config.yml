@@ -5,12 +5,12 @@
 
 
 # Site
-title: L.M
-subtitle: step to step
-description: L.M|Hexo|Python
+title: L.M.
+subtitle: <i class="menu-item-icon fa fa-fw fa-paw " ></i> step to step <i class="menu-item-icon fa fa-fw fa-paw " ></i>
+description: 白胖白胖 <i class="menu-item-icon fa fa-fw fa-trademark fa-spin fa-fw" ></i>
 author: Leo
 email: Lhb_6031@qq.com
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -66,7 +66,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugi:ns/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
